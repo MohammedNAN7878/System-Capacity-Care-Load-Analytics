@@ -64,7 +64,7 @@ with col_logo:
 with col_title:
     st.title("UAC Analytics Dashboard")
     st.markdown("""
-    **Developed By:** Arqam Shaikh  
+    **Developed By:** Mohammed Numaan Akbar N  
     **Data Source:** U.S. Department of Health & Human Services (HHS)
     """)
 
@@ -195,7 +195,7 @@ with tab4:
     st.markdown("---")
     st.markdown("""
     ### 👨‍💻 Developer
-    **Arqam Shaikh**  
+    **Mohammed Numaan Akbar N**  
     Data Analytics & Machine Learning Engineer  
     [GitHub](https://github.com/Arqam-Shaikh) | [LinkedIn](https://linkedin.com/in/arqam-shaikh)
     
@@ -211,7 +211,7 @@ footer = """
 <div style='text-align:center; font-size:13px; color:gray; line-height:1.8;'>
 
 <strong>🌐 System Capacity & Care Load Analytics Dashboard</strong><br>
-<strong>Developed by Arqam Shaikh</strong><br>
+<strong>Developed by Mohammed Numaan Akbar N</strong><br>
 Data Source: U.S. Department of Health & Human Services (HHS)<br><br>
 
 <a href='https://system-capacity-care-load-analytics-c6cgxbhdbv4rz6v9y9fnnm.streamlit.app/'

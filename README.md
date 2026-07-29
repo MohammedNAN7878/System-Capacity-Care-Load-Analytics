@@ -125,7 +125,7 @@ Derived metrics include:
 ## Clone Repository
 
 ```bash
-git clone https://github.com/Arqam-Shaikh/System-Capacity-Care-Load-Analytics.git
+git clone https://github.com/MohammedNAN7878/System-Capacity-Care-Load-Analytics.git
 cd System-Capacity-Care-Load-Analytics
 ```
 
@@ -187,23 +187,23 @@ https://system-capacity-care-load-analytics-c6cgxbhdbv4rz6v9y9fnnm.streamlit.app
 
 # 💻 GitHub Repository
 
-https://github.com/Arqam-Shaikh/System-Capacity-Care-Load-Analytics
+https://github.com/MohammedNAN7878/System-Capacity-Care-Load-Analytics.git
 
 ---
 
 # 👨‍💻 Developer
 
-## Arqam Shaikh
+## Mohammed Numaan Akbar N
 
 **Data Analytics | Machine Learning | Python Developer**
 
 ### GitHub
 
-https://github.com/Arqam-Shaikh
+https://github.com/MohammedNAN7878
 
 ### LinkedIn
 
-https://www.linkedin.com/in/arqam-shaikh-5196b4313/
+https://www.linkedin.com/in/mohammed-numaan-akbar-n/
 
 For queries or collaboration, feel free to connect.
 
