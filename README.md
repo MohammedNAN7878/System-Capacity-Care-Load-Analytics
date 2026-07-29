@@ -181,7 +181,7 @@ This project was developed as part of the **Unified Mentor Internship Program** 
 
 ### 🚀 Streamlit Application
 
-https://system-capacity-care-load-analytics-c6cgxbhdbv4rz6v9y9fnnm.streamlit.app/
+https://system-capacity-care-load-analytics-dtsvewugyappu3cmtd5aahj.streamlit.app/
 
 ---
 
